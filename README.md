@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Seungjae Lee :technologist:
 #
-- :man_student: Graduated from Korea Advanced Insititute of Science and Technology (KAIST), EE and ME.
+- :man_student: Graduated from Korea Advanced Institute of Science and Technology (KAIST), EE and ME.
 #
 - 🔭	Now, in the Master program at KAIST, [Urban Robotics Lab.][urllink]
 #
 - 🌱 Currently interested in 3D Point Cloud :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
 
-[urllink]:urobot.kaist.ac.kr
+[urllink]:https://github.com/url-kaist
 
 <!--
 **seungjae24/seungjae24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
