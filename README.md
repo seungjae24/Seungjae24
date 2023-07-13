@@ -1,8 +1,12 @@
 ### Hi there 👋 I'm Seungjae Lee :technologist:
 #
-- :man_student: Graduated from Korea Advanced Institute of Science and Technology (KAIST), EE and ME.
-- 🔭	Now, in the Master program at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
+- 🔭 Now, Ph. D. candidate at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
 - 🌱 Currently interested in 3D Point Cloud :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
+- :man_student: Education
+    - Bachelor degree, KAIST EE and ME (dual degree).
+    - Master degree, KAIST EE, Urban Robotics Lab.
+
+> KAIST: Korea Advanced Institute of Science and Technology
 #
 - :robot: IROS 2022 (Oct. 23 - 27, 2022. Kyoto)
     - Introduced a fast and robust ground segmentation for 3D LiDAR point cloud, [Patchwork++][paperlink].
