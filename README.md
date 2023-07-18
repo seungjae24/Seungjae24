@@ -3,10 +3,11 @@
 - 🔭 Now, Ph. D. candidate at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
 - 🌱 Currently interested in 3D Point Cloud :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
 - :man_student: Education
-    - Bachelor degree, KAIST EE and ME (dual degree).
+    - Bachelor degree, KAIST EE & ME (double major).
     - Master degree, KAIST EE, Urban Robotics Lab.
 
-> KAIST: Korea Advanced Institute of Science and Technology
+> KAIST - Korea Advanced Institute of Science and Technology \
+> EE - Electrical Engineering / ME - Mechanical Engineering
 #
 - :robot: IROS 2022 (Oct. 23 - 27, 2022. Kyoto)
     - Introduced a fast and robust ground segmentation for 3D LiDAR point cloud, [Patchwork++][paperlink].
