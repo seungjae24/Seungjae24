@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Seungjae Lee :technologist:
 #
-- 🔭 Now, Ph. D. candidate at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
-- 🌱 Currently interested in 3D Point Cloud :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
+- 🔭 Now, Ph. D. student at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
+- 🧑‍💻 Also, doing a research internship program in [NAVER LABS][nllink] (Computer Vision & Deep Learning).
+- 🌱 Currently interested in 3D Vision :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
 - :man_student: Education
-    - Bachelor degree, KAIST EE & ME (double major).
     - Master degree, KAIST EE, Urban Robotics Lab.
+    - Bachelor degree, KAIST EE & ME (double major).
 
 > KAIST - Korea Advanced Institute of Science and Technology \
 > EE - Electrical Engineering / ME - Mechanical Engineering
@@ -22,6 +23,7 @@
  
  
 [urllink]:https://github.com/url-kaist
+[nllink]:https://www.naverlabs.com/
 [paperlink]:https://ieeexplore.ieee.org/document/9981561
 [patchworkpplink]:https://github.com/url-kaist/patchwork-plusplus
 [patchworkpproslink]:https://github.com/url-kaist/patchwork-plusplus-ros
