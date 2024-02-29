@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Seungjae Lee :technologist:
 #
 - 🔭 Now, Ph. D. student at School of Electrical Engineering, KAIST, [Urban Robotics Lab.][urllink]
-- 🧑‍💻 Also, doing a research internship program in [NAVER LABS][nllink] (Computer Vision & Deep Learning).
 - 🌱 Currently interested in 3D Vision :cloud:, LiDAR SLAM :world_map:, and Deep Learning :brain:.
 - :man_student: Education
     - Master degree, KAIST EE, Urban Robotics Lab.
     - Bachelor degree, KAIST EE & ME (double major).
+- 🧑‍💻 Work Experience
+    - Research internship in [NAVER LABS][nllink] (Aug. 2023 - Feb. 2024, Computer Vision & Deep Learning).
 
 > KAIST - Korea Advanced Institute of Science and Technology \
 > EE - Electrical Engineering / ME - Mechanical Engineering
